@@ -3,7 +3,7 @@ const img = document.querySelector("img");
 
 // text / HTML
 
-h1.textContent = "Hello, This is Information Assurance Class";
+h1.textContent = "Hello, This is not my class";
 
 h1.innerHTML = "Hello <em>CSC220</em>";
 
